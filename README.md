@@ -1,0 +1,1 @@
+# animated-svg-hero-slider
